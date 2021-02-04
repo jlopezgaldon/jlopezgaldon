@@ -13,12 +13,11 @@ Hey, it´s Jose! Here you will find a part of my work, from my very first code t
 <code><img height="45" src="https://www.tableau.com/sites/default/files/pages/tableau_cmyk_2015.png"></code>
 <code><img height="45" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"></code>
 
-<! –– ## What are you going to find in my repositories?
+<!---## What are you going to find in my repositories?-->
 
-### Clustering
+<!---### Clustering-->
 
-### Machine Learning
+<!---### Machine Learning-->
 
-### Visualization
-––>
+<!---### Visualization-->
 
